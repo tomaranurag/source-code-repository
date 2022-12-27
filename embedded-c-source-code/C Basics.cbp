@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="C Basics" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/C Basics" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/C Basics" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Bitwise/bitwise.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Bitwise/bitwise.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="Bitwise/checkBit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Bitwise/checkOppositeSign.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Bitwise/checkPowerOfInteger.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Bitwise/checkSign.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Bitwise/clearBit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Bitwise/setBit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Bitwise/toggleBit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/add_after_double_linklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/add_at_beg_double_linklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/add_at_end_double_linklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/add_before_double_linklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/add_to_empty_double_linklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/create_double_linkedlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/delete_double_linkedlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/display_double_linkedlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/double_linkedlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/double_linkedlist.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="DoubleLinkedList/reverse_double_linkedlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Numbers/armstrong_number.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Numbers/fibonacci_series.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Numbers/number.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="Numbers/numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Numbers/polindrom_number.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Numbers/polindrom_word.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Numbers/prime_between_number.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Numbers/prime_number.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Searching/binary_search.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Searching/linear_search.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Searching/searching.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Searching/searching.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="SingleLinkedList/add_after_slinklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/add_at_beg_slinkjlist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/add_at_end_slinklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/add_at_pos_slinklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/add_before_slinklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/count_single_linklist_node.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/create_single_linklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/delete_slinklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/display_single_linklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/linkedList.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="SingleLinkedList/reverse_slinklist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/search_sigle_linklist_node.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SingleLinkedList/singleLinkList.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Stack/array/arrstack.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="Stack/array/stack_using_array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="String/reverseWord.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="String/string.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="String/string.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h">
+			<Option compile="1" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

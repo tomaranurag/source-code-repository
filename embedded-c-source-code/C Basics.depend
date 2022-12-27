@@ -1,0 +1,632 @@
+# depslib dependency file v1.0
+1589655435 source:x:\c basics\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1586545567 x:\c basics\number.h
+
+1585324367 source:x:\c basics\polindrom.c
+	<stdio.h>
+	"number.h"
+
+1586545567 source:x:\c basics\number.h
+
+1586601700 source:x:\c basics\fibonacci_series.c
+	<stdio.h>
+	"number.h"
+
+1586601738 source:x:\c basics\polindrom_number.c
+	<stdio.h>
+	"number.h"
+
+1586601806 source:x:\c basics\polindrom_word.c
+	<stdio.h>
+	<string.h>
+	"number.h"
+
+1586601636 source:x:\c basics\armstrong_number.c
+	<stdio.h>
+	<math.h>
+	"number.h"
+
+1585383939 source:x:\c basics\strrev.h
+
+1586601957 source:x:\c basics\prime_between_number.c
+	<stdio.h>
+	"number.h"
+
+1586601847 source:x:\c basics\prime_number.c
+	<stdio.h>
+	"number.h"
+
+1586601577 source:x:\c basics\numbers.c
+	<stdio.h>
+	<stdlib.h>
+	"number.h"
+
+1586546906 x:\c basics\bitwise.h
+
+1586603654 source:x:\c basics\bitwise.c
+	<stdio.h>
+	<stdlib.h>
+	"bitwise.h"
+
+1586546906 source:x:\c basics\bitwise.h
+
+1586629364 source:x:\c basics\bitwise\bitwise.h
+
+1586609507 source:x:\c basics\bitwise\checksign.c
+	<stdio.h>
+	"bitwise.h"
+
+1586635296 source:x:\c basics\bitwise\bitwise.c
+	<stdio.h>
+	<stdlib.h>
+	"bitwise.h"
+
+1586629364 x:\c basics\bitwise\bitwise.h
+
+1586619963 source:x:\c basics\bitwise\checkoppositesign.c
+	<stdio.h>
+	"bitwise.h"
+
+1586620064 source:x:\c basics\bitwise\checkpowerofinteger.c
+	<stdio.h>
+	"bitwise.h"
+
+1586629477 source:x:\c basics\bitwise\clearbit.c
+	<stdio.h>
+	"bitwise.h"
+
+1586629443 source:x:\c basics\bitwise\setbit.c
+	<stdio.h>
+	"bitwise.h"
+
+1586629453 source:x:\c basics\bitwise\togglebit.c
+	<stdio.h>
+	"bitwise.h"
+
+1586629389 source:x:\c basics\bitwise\checkbit.c
+	<stdio.h>
+	"bitwise.h"
+
+1587473474 source:x:\c basics\string\string.c
+	<stdio.h>
+	<stdio.h>
+	<string.h>
+	"string.h"
+
+1587473588 source:x:\c basics\string\string.h
+
+1587473588 x:\c basics\string\string.h
+
+1586684492 x:\c basics\numbers\number.h
+
+1586684492 source:x:\c basics\numbers\number.h
+
+1586684862 source:x:\c basics\numbers\armstrong_number.c
+	<stdio.h>
+	<math.h>
+	"number.h"
+
+1586684891 source:x:\c basics\numbers\fibonacci_series.c
+	<stdio.h>
+	"number.h"
+
+1586685121 source:x:\c basics\numbers\numbers.c
+	<stdio.h>
+	<stdlib.h>
+	"number.h"
+
+1586684923 source:x:\c basics\numbers\polindrom_number.c
+	<stdio.h>
+	"number.h"
+
+1586684951 source:x:\c basics\numbers\polindrom_word.c
+	<stdio.h>
+	<string.h>
+	"number.h"
+
+1586684977 source:x:\c basics\numbers\prime_between_number.c
+	<stdio.h>
+	"number.h"
+
+1586685003 source:x:\c basics\numbers\prime_number.c
+	<stdio.h>
+	"number.h"
+
+1587478543 source:x:\c basics\linkedlist\linkedlist.h
+
+1588991015 source:x:\c basics\linkedlist\singlelinklist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1589727773 x:\c basics\main.h
+	"Numbers/number.h"
+	"String/string.h"
+	"Bitwise/bitwise.h"
+	"SingleLinkedList/linkedList.h"
+	"DoubleLinkedList/double_linkedlist.h"
+	"Searching/searching.h"
+
+1587478543 x:\c basics\linkedlist\linkedlist.h
+
+1589655406 source:x:\c basics\main.h
+	"Numbers/number.h"
+	"String/string.h"
+	"Bitwise/bitwise.h"
+	"SingleLinkedList/linkedList.h"
+	"DoubleLinkedList/double_linkedlist.h"
+
+1587473588 source:x:\c basics\string\reverseword.c
+	<stdio.h>
+	"string.h"
+
+1587477434 source:x:\c basics\linkedlist\create_list.c
+
+1588982499 source:x:\c basics\linkedlist\add_after_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588989256 source:x:\c basics\linkedlist\add_at_beg_slinkjlist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588976281 source:x:\c basics\linkedlist\add_at_end_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588982473 source:x:\c basics\linkedlist\add_before_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588988622 source:x:\c basics\linkedlist\count_single_linklist_node.c
+	<stdio.h>
+	"linkedList.h"
+
+1588988348 source:x:\c basics\linkedlist\add_at_pos_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588989484 source:x:\c basics\linkedlist\display_single_linklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588989430 source:x:\c basics\linkedlist\create_single_linklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588988524 source:x:\c basics\linkedlist\search_sigle_linklist_node.c
+	<stdio.h>
+	"linkedList.h"
+
+1588988569 source:x:\c basics\linkedlist\reverse_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588988605 source:x:\c basics\linkedlist\delete_slinklist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1588994956 source:x:\c basics\searching\linear_search.c
+	<stdio.h>
+	"searching.h"
+
+1589727663 x:\c basics\searching\searching.h
+
+1588994856 source:x:\c basics\searching\searching.c
+	<stdio.h>
+	<stdio.h>
+	"searching.h"
+
+1588999308 source:x:\c basics\searching\binary_search.c
+	<stdio.h>
+	"searching.h"
+
+1589727663 source:x:\c basics\searching\searching.h
+
+1589560777 source:x:\c basics\double linkedlist\add_after_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589560759 x:\c basics\double linkedlist\double_linkedlist.h
+
+1589565125 source:x:\c basics\double linkedlist\add_at_beg_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589560769 source:x:\c basics\double linkedlist\add_before_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589560804 source:x:\c basics\double linkedlist\add_at_end_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589560910 source:x:\c basics\double linkedlist\add_to_empty_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589561705 source:x:\c basics\double linkedlist\create_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589561192 source:x:\c basics\double linkedlist\delete_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589560759 source:x:\c basics\double linkedlist\double_linkedlist.h
+
+1589560893 source:x:\c basics\double linkedlist\display_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589561326 source:x:\c basics\double linkedlist\double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589560908 source:x:\c basics\double linkedlist\reverse_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589727663 source:x:\c basics\doublelinkedlist\double_linkedlist.h
+
+1589641262 source:x:\c basics\doublelinkedlist\add_after_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589727663 x:\c basics\doublelinkedlist\double_linkedlist.h
+
+1589648612 source:x:\c basics\doublelinkedlist\add_at_beg_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589648845 source:x:\c basics\doublelinkedlist\add_at_end_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589641333 source:x:\c basics\doublelinkedlist\add_before_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589641358 source:x:\c basics\doublelinkedlist\add_to_empty_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589641389 source:x:\c basics\doublelinkedlist\create_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589641493 source:x:\c basics\doublelinkedlist\delete_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589641501 source:x:\c basics\doublelinkedlist\display_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589641445 source:x:\c basics\doublelinkedlist\double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589641513 source:x:\c basics\doublelinkedlist\reverse_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589727542 source:x:\c basics\singlelinkedlist\linkedlist.h
+
+1588982499 source:x:\c basics\singlelinkedlist\add_after_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1589727542 x:\c basics\singlelinkedlist\linkedlist.h
+
+1588989256 source:x:\c basics\singlelinkedlist\add_at_beg_slinkjlist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588976281 source:x:\c basics\singlelinkedlist\add_at_end_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588988348 source:x:\c basics\singlelinkedlist\add_at_pos_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588982473 source:x:\c basics\singlelinkedlist\add_before_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588988622 source:x:\c basics\singlelinkedlist\count_single_linklist_node.c
+	<stdio.h>
+	"linkedList.h"
+
+1587477434 source:x:\c basics\singlelinkedlist\create_list.c
+
+1588989430 source:x:\c basics\singlelinkedlist\create_single_linklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588988605 source:x:\c basics\singlelinkedlist\delete_slinklist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1588989484 source:x:\c basics\singlelinkedlist\display_single_linklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588988569 source:x:\c basics\singlelinkedlist\reverse_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588988524 source:x:\c basics\singlelinkedlist\search_sigle_linklist_node.c
+	<stdio.h>
+	"linkedList.h"
+
+1588991015 source:x:\c basics\singlelinkedlist\singlelinklist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1586601096 source:e:\codes\c basics\bitwise\bitwise.c
+	<stdio.h>
+	<stdlib.h>
+	"bitwise.h"
+
+1586595164 e:\codes\c basics\bitwise\bitwise.h
+
+1586595164 source:e:\codes\c basics\bitwise\bitwise.h
+
+1586595188 source:e:\codes\c basics\bitwise\checkbit.c
+	<stdio.h>
+	"bitwise.h"
+
+1586585762 source:e:\codes\c basics\bitwise\checkoppositesign.c
+	<stdio.h>
+	"bitwise.h"
+
+1586585864 source:e:\codes\c basics\bitwise\checkpowerofinteger.c
+	<stdio.h>
+	"bitwise.h"
+
+1586575306 source:e:\codes\c basics\bitwise\checksign.c
+	<stdio.h>
+	"bitwise.h"
+
+1586595276 source:e:\codes\c basics\bitwise\clearbit.c
+	<stdio.h>
+	"bitwise.h"
+
+1586595242 source:e:\codes\c basics\bitwise\setbit.c
+	<stdio.h>
+	"bitwise.h"
+
+1586595252 source:e:\codes\c basics\bitwise\togglebit.c
+	<stdio.h>
+	"bitwise.h"
+
+1589607062 source:e:\codes\c basics\doublelinkedlist\add_after_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589693462 e:\codes\c basics\doublelinkedlist\double_linkedlist.h
+
+1589614412 source:e:\codes\c basics\doublelinkedlist\add_at_beg_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589614644 source:e:\codes\c basics\doublelinkedlist\add_at_end_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607132 source:e:\codes\c basics\doublelinkedlist\add_before_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607158 source:e:\codes\c basics\doublelinkedlist\add_to_empty_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607188 source:e:\codes\c basics\doublelinkedlist\create_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607292 source:e:\codes\c basics\doublelinkedlist\delete_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607300 source:e:\codes\c basics\doublelinkedlist\display_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607244 source:e:\codes\c basics\doublelinkedlist\double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589693462 source:e:\codes\c basics\doublelinkedlist\double_linkedlist.h
+
+1589607312 source:e:\codes\c basics\doublelinkedlist\reverse_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589621234 source:e:\codes\c basics\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1589693572 e:\codes\c basics\main.h
+	"Numbers/number.h"
+	"String/string.h"
+	"Bitwise/bitwise.h"
+	"SingleLinkedList/linkedList.h"
+	"DoubleLinkedList/double_linkedlist.h"
+	"Searching/searching.h"
+
+1586650292 e:\codes\c basics\numbers\number.h
+
+1587439388 e:\codes\c basics\string\string.h
+
+1589693342 e:\codes\c basics\singlelinkedlist\linkedlist.h
+
+1589693462 e:\codes\c basics\searching\searching.h
+
+1589693572 source:e:\codes\c basics\main.h
+	"Numbers/number.h"
+	"String/string.h"
+	"Bitwise/bitwise.h"
+	"SingleLinkedList/linkedList.h"
+	"DoubleLinkedList/double_linkedlist.h"
+	"Searching/searching.h"
+
+1586650662 source:e:\codes\c basics\numbers\armstrong_number.c
+	<stdio.h>
+	<math.h>
+	"number.h"
+
+1586650690 source:e:\codes\c basics\numbers\fibonacci_series.c
+	<stdio.h>
+	"number.h"
+
+1586650292 source:e:\codes\c basics\numbers\number.h
+
+1586650920 source:e:\codes\c basics\numbers\numbers.c
+	<stdio.h>
+	<stdlib.h>
+	"number.h"
+
+1586650722 source:e:\codes\c basics\numbers\polindrom_number.c
+	<stdio.h>
+	"number.h"
+
+1586650750 source:e:\codes\c basics\numbers\polindrom_word.c
+	<stdio.h>
+	<string.h>
+	"number.h"
+
+1586650776 source:e:\codes\c basics\numbers\prime_between_number.c
+	<stdio.h>
+	"number.h"
+
+1586650802 source:e:\codes\c basics\numbers\prime_number.c
+	<stdio.h>
+	"number.h"
+
+1588965108 source:e:\codes\c basics\searching\binary_search.c
+	<stdio.h>
+	"searching.h"
+
+1588960756 source:e:\codes\c basics\searching\linear_search.c
+	<stdio.h>
+	"searching.h"
+
+1588960656 source:e:\codes\c basics\searching\searching.c
+	<stdio.h>
+	<stdio.h>
+	"searching.h"
+
+1589693462 source:e:\codes\c basics\searching\searching.h
+
+1588948298 source:e:\codes\c basics\singlelinkedlist\add_after_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588955056 source:e:\codes\c basics\singlelinkedlist\add_at_beg_slinkjlist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588942080 source:e:\codes\c basics\singlelinkedlist\add_at_end_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588954148 source:e:\codes\c basics\singlelinkedlist\add_at_pos_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588948272 source:e:\codes\c basics\singlelinkedlist\add_before_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588954422 source:e:\codes\c basics\singlelinkedlist\count_single_linklist_node.c
+	<stdio.h>
+	"linkedList.h"
+
+1588955230 source:e:\codes\c basics\singlelinkedlist\create_single_linklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588954404 source:e:\codes\c basics\singlelinkedlist\delete_slinklist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1588955284 source:e:\codes\c basics\singlelinkedlist\display_single_linklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1589693342 source:e:\codes\c basics\singlelinkedlist\linkedlist.h
+
+1588954368 source:e:\codes\c basics\singlelinkedlist\reverse_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588954324 source:e:\codes\c basics\singlelinkedlist\search_sigle_linklist_node.c
+	<stdio.h>
+	"linkedList.h"
+
+1588956814 source:e:\codes\c basics\singlelinkedlist\singlelinklist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1587439388 source:e:\codes\c basics\string\reverseword.c
+	<stdio.h>
+	"string.h"
+
+1587439274 source:e:\codes\c basics\string\string.c
+	<stdio.h>
+	<stdio.h>
+	<string.h>
+	"string.h"
+
+1587439388 source:e:\codes\c basics\string\string.h
+
+1589870858 source:e:\codes\c basics\stack\array\arrstack.h
+
+1589870846 source:e:\codes\c basics\stack\array\stack_using_array.c
+
