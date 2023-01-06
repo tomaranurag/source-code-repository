@@ -630,3 +630,240 @@
 
 1589870846 source:e:\codes\c basics\stack\array\stack_using_array.c
 
+1586601096 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\bitwise\bitwise.c
+	<stdio.h>
+	<stdlib.h>
+	"bitwise.h"
+
+1586595164 c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\bitwise\bitwise.h
+
+1586595164 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\bitwise\bitwise.h
+
+1586595188 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\bitwise\checkbit.c
+	<stdio.h>
+	"bitwise.h"
+
+1586585762 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\bitwise\checkoppositesign.c
+	<stdio.h>
+	"bitwise.h"
+
+1586585864 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\bitwise\checkpowerofinteger.c
+	<stdio.h>
+	"bitwise.h"
+
+1586575306 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\bitwise\checksign.c
+	<stdio.h>
+	"bitwise.h"
+
+1586595276 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\bitwise\clearbit.c
+	<stdio.h>
+	"bitwise.h"
+
+1586595242 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\bitwise\setbit.c
+	<stdio.h>
+	"bitwise.h"
+
+1586595252 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\bitwise\togglebit.c
+	<stdio.h>
+	"bitwise.h"
+
+1589607062 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\add_after_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589693462 c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\double_linkedlist.h
+
+1589614412 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\add_at_beg_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589614644 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\add_at_end_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607132 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\add_before_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607158 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\add_to_empty_double_linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607188 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\create_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607292 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\delete_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607300 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\display_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589607244 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589693462 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\double_linkedlist.h
+
+1589607312 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\doublelinkedlist\reverse_double_linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"double_linkedlist.h"
+
+1589621234 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1589693572 c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\main.h
+	"Numbers/number.h"
+	"String/string.h"
+	"Bitwise/bitwise.h"
+	"SingleLinkedList/linkedList.h"
+	"DoubleLinkedList/double_linkedlist.h"
+	"Searching/searching.h"
+
+1586650292 c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\numbers\number.h
+
+1587439388 c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\string\string.h
+
+1589693342 c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\linkedlist.h
+
+1589693462 c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\searching\searching.h
+
+1589693572 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\main.h
+	"Numbers/number.h"
+	"String/string.h"
+	"Bitwise/bitwise.h"
+	"SingleLinkedList/linkedList.h"
+	"DoubleLinkedList/double_linkedlist.h"
+	"Searching/searching.h"
+
+1586650662 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\numbers\armstrong_number.c
+	<stdio.h>
+	<math.h>
+	"number.h"
+
+1586650690 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\numbers\fibonacci_series.c
+	<stdio.h>
+	"number.h"
+
+1586650292 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\numbers\number.h
+
+1586650920 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\numbers\numbers.c
+	<stdio.h>
+	<stdlib.h>
+	"number.h"
+
+1586650722 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\numbers\polindrom_number.c
+	<stdio.h>
+	"number.h"
+
+1586650750 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\numbers\polindrom_word.c
+	<stdio.h>
+	<string.h>
+	"number.h"
+
+1586650776 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\numbers\prime_between_number.c
+	<stdio.h>
+	"number.h"
+
+1586650802 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\numbers\prime_number.c
+	<stdio.h>
+	"number.h"
+
+1588965108 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\searching\binary_search.c
+	<stdio.h>
+	"searching.h"
+
+1588960756 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\searching\linear_search.c
+	<stdio.h>
+	"searching.h"
+
+1588960656 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\searching\searching.c
+	<stdio.h>
+	<stdio.h>
+	"searching.h"
+
+1589693462 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\searching\searching.h
+
+1588948298 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\add_after_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588955056 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\add_at_beg_slinkjlist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588942080 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\add_at_end_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588954148 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\add_at_pos_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588948272 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\add_before_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588954422 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\count_single_linklist_node.c
+	<stdio.h>
+	"linkedList.h"
+
+1588955230 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\create_single_linklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588954404 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\delete_slinklist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1588955284 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\display_single_linklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1589693342 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\linkedlist.h
+
+1588954368 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\reverse_slinklist.c
+	<stdio.h>
+	"linkedList.h"
+
+1588954324 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\search_sigle_linklist_node.c
+	<stdio.h>
+	"linkedList.h"
+
+1588956814 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\singlelinkedlist\singlelinklist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1589870858 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\stack\array\arrstack.h
+
+1589870846 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\stack\array\stack_using_array.c
+
+1587439388 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\string\reverseword.c
+	<stdio.h>
+	"string.h"
+
+1587439274 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\string\string.c
+	<stdio.h>
+	<stdio.h>
+	<string.h>
+	"string.h"
+
+1587439388 source:c:\users\anurag\documents\github\source-code-repository\embedded-c-source-code\string\string.h
+

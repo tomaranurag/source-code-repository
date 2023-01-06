@@ -24,7 +24,7 @@ int string_func()
                 reverse_word(str);
                 break;
             case 2:
-                printf("\n\t\tExiting from Bitwise Function's Menu....\n");
+                printf("\n\t\tExiting from String Function's Menu....\n");
                 break;
             default:
                 printf("\n\t\tPlease Enter the Correct Choice\n");
