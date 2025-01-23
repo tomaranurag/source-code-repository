@@ -10,7 +10,7 @@ int clear_bit(unsigned char,int);
 int bit_check(unsigned char,int);
 int bit_tonggle(unsigned char,int);
 int count_set_bits(int);
-int chane_endianness(int);
+int change_endianness(int);
 int clear_bits_from_msb_to_ith(int,int);
 
 #endif // BITWISE_H_INCLUDED

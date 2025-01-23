@@ -67,7 +67,7 @@ int bitwise_func()
             case 9:
                 printf("Enter an Integer Value : ");
                 scanf("%d",&value1);
-                chane_endianness(value1);
+                change_endianness(value1);
                 break;
             case 10:
                 printf("Enter an Integer Value and Position : ");

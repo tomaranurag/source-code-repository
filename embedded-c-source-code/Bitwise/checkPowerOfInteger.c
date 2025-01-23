@@ -11,7 +11,7 @@ int check_power_of_integer(int data)
         printf("\n\t\tInteger is a Power Of 2\n");
     }
     else{
-        printf("\n\t\tInter is not a Power Of 2\n");
+        printf("\n\t\tInteger is not a Power Of 2\n");
     }
     return 0;
 }
